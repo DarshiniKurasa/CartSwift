@@ -40,3 +40,37 @@ Before running the project, ensure you have:
    ```sh
    git clone https://github.com/DarshiniKurasa/CartSwift.git
    cd CartSwift
+   ```
+2. ### Open in Browser
+- Open `index.html` in your browser to launch the app.
+
+### Set up Firebase
+1. Go to the [Firebase Console](https://console.firebase.google.com/).
+2. Create a new project.
+3. Enable the Realtime Database.
+4. Replace the Firebase configuration in `index.js` with your project's configuration.
+
+### Deploy on Netlify (Optional)
+- Drag and drop your project folder into [Netlify Drop](https://app.netlify.com/drop).
+
+## Usage
+
+- **Browse Available Products:** View the list of products.
+- **Add to Cart:** Click the "Add to Cart" button to save items.
+- **Remove Items:** Tap on an item to remove it instantly.
+- **Checkout:** (Coming soon 🚀)
+
+## Project Structure
+
+```bash
+CartSwift/
+│── images/                 # Stores app images/icons
+│── index.html              # Main HTML file
+│── index.css               # Styling for the app
+│── index.js                # JavaScript logic (Firebase integration)
+│── site.webmanifest        # Web App Manifest
+│── favicon.ico             # App icon
+└── README.md               # Project documentation
+```
+###Contribution
+Want to contribute to CartSwift? Fork this repo, make improvements, and submit a pull request!
