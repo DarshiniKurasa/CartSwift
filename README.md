@@ -1,49 +1,42 @@
-# **Mobile App with Firebase** 📱🚀  
+# 🛒 CartSwift - Mobile Add to Cart App
 
-A modern and responsive mobile application built using **HTML, CSS, JavaScript, and Google Firebase** for authentication and database management.  
+CartSwift is a **mobile-first Add to Cart web app**, built using **HTML, CSS, JavaScript, and Firebase**. It provides a seamless shopping experience where users can **add items to the cart and remove them with a simple tap**.
 
-## **🔹 Features**  
-✅ **User Authentication** – Sign up, login, and logout functionality using Firebase Authentication.  
-✅ **Real-time Database** – Store and retrieve user data efficiently with Firebase Firestore.  
-✅ **Responsive Design** – Optimized for mobile devices.  
-✅ **Custom UI Design** – Styled using Google Fonts and Figma-designed layouts.  
-✅ **Deployment Ready** – Hosted on **Netlify** for seamless accessibility.  
+## 🌟 Features
 
-## **🔹 Technologies Used**  
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)  
-- **Backend**: Firebase (Authentication, Firestore)  
-- **Deployment**: Netlify  
-- **Design Tools**: Figma, Google Fonts, Favicon.io  
+✅ **One-Tap Item Removal** – Simply tap an item to remove it from the cart.  
+✅ **User-Friendly Interface** – Clean and modern UI for effortless navigation.  
+✅ **Add to Cart** – Easily add products to your cart.  
+✅ **Real-Time Database** – Uses **Firebase Realtime Database** for storing cart data.  
+✅ **Mobile-Optimized** – Fully responsive design for mobile users.  
+✅ **Deployed Online** – Hosted on **Netlify** for easy access.
 
-## **🔹 Installation & Setup**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/DarshiniKurasa/MobileApp-Firebase.git
-   ```
-2. Navigate to the project directory:  
-   ```bash
-   cd MobileApp-Firebase
-   ```
-3. Open **index.html** in a browser or use a local server for testing.  
+## 🔧 Technologies Used
 
-## **🔹 Firebase Setup**  
-1. Go to [Firebase Console](https://firebase.google.com/).  
-2. Create a new project and add a web app.  
-3. Copy your Firebase SDK configuration and replace it in your **firebase-config.js** file.  
-4. Enable **Authentication** and **Firestore Database** in Firebase settings.  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Firebase (Realtime Database)  
+- **Design Tools:** Figma, Google Fonts, Favicon.io  
+- **Deployment:** Netlify
 
-## **🔹 Deployment on Netlify**  
-1. Create an account on [Netlify](https://www.netlify.com/).  
-2. Drag and drop the project folder to deploy.  
-3. Get a live URL and share your app!  
+## 📸 Screenshots
 
-## **🔹 Future Enhancements**  
-- Implement push notifications.  
-- Add cloud storage for user uploads.  
-- Enhance UI/UX with animations and transitions.  
+![WhatsApp Image 2025-03-06 at 19 31 30_755893e6](https://github.com/user-attachments/assets/3753b04e-9ab7-4df7-9be5-f328c2e9c0e0)
+![WhatsApp Image 2025-03-06 at 19 32 31_e5bd573c](https://github.com/user-attachments/assets/0487ecf4-9b03-450f-90cc-b1f266af2b30)
 
-## **🔹 Contributing**  
-Feel free to fork this repo, create a new branch, and submit a pull request with improvements! 🎉  
 
-## **🔹 License**  
-This project is open-source under the **MIT License**.  
+
+## 🚀 Getting Started
+
+### 🔹 Prerequisites
+
+Before running the project, ensure you have:
+- A **GitHub account**
+- Basic knowledge of **HTML, CSS, and JavaScript**
+- A **Firebase account** (for database setup)
+
+### 🔹 Installation
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/DarshiniKurasa/CartSwift.git
+   cd CartSwift
