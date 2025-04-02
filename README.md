@@ -1,8 +1,8 @@
 # 🛒 CartSwift - Mobile Add to Cart App
 
 CartSwift is a **mobile-first Add to Cart web app**, built using **HTML, CSS, JavaScript, and Firebase**. It provides a seamless shopping experience where users can **add items to the cart and remove them with a simple tap**.
-# 🛒 CartSwift 
-🔗 [Live Demo](https://cartswift.netlify.app/)
+
+# 🔗 [Live Demo](https://cartswift.netlify.app/)
 
 
 ## 🌟 Features
